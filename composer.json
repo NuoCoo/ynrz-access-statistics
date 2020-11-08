@@ -1,6 +1,7 @@
 {
     "name": "ynrz/access-statistics",
     "description": "access-statistics",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
