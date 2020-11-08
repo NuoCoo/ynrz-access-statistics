@@ -13,7 +13,10 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "accessStatistics\\": "src/"
+            "ynrzxka\\accessStatistics\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {"ynrzxka\\accessStatistics\\": "tests"}
     }
 }
